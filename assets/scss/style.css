@@ -1,0 +1,32 @@
+/* 
+This is the primary HTML style
+*/
+html {
+  font-size: 0.75em;
+}
+
+.foo {
+  background: orange;
+}
+
+.foo p {
+  color: blue;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.foo {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+/*# sourceMappingURL=style.css.map */
